@@ -6,6 +6,13 @@
 
 > :pushpin: Instituto Federal de São Paulo - Campus Campinas
 
-> :computer: **interest areas:**
+> :computer: **Skills:**
+> 
+[![My Skills](https://skillicons.dev/icons?i=git,mysql)](https://skillicons.dev)
+
+> :computer: **Learning:**
+> 
+[![My Skills](https://skillicons.dev/icons?i=js,cs,py)](https://skillicons.dev)
+
 
 > :octocat: **only in progress**
