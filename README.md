@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,cs,py)](https://skillicons.dev)
 
 
-## University
+## :mortar_board: University
 **Análise e Desenvolvimento de Sistemas** :hourglass_flowing_sand:
 
 Instituto Federal de São Paulo - Campus Campinas
