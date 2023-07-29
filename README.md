@@ -10,7 +10,7 @@
 ## Working at [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/)
 > **Integração de Software Android** para smartphones em desenvolvimento. Atuo em validações e testes de estabilidade de releases e requisitos específicos de operadoras da América Latina, América do Norte e Europa, fazendo a investigação, análise, resolução e implementação de configurações no Android.
 
-## Current passion
+## How I found myself in tech
 > Iniciei na área tecnológica recentemente, em 2020, tendo contato com banco de dados relacionais e desenvolvimento de querys, o que me fez aprofundar cada vez mais no mundo do **SQL Developer** com **SGBDs relacionais**.
 > Por isso, hoje consigo ir desde modelar o banco de dados na sua criação,  até o uso de triggers e stored procedures para agilizar as rotinas necessárias!
 > Aplico meus conhecimentos de BD e SQL em projetos da faculdade usando o **MySQL Workbench**, buscando sempre aprimorar e implementar melhorias na base de dados do projeto.
