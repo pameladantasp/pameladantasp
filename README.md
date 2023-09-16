@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pamela Dantas
+## Hi there! 👋 I'm Pamela Dantas
 ![Badge 20y](http://img.shields.io/static/v1?label=20y&message=%20SHE/HER&color=red&style=for-the-badge)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,py)](https://skillicons.dev)
@@ -25,13 +25,6 @@
 
 Instituto Federal de São Paulo - Campus Campinas
 
-
-## **Contacts**
-<div>
-<a href="https://instagram.com/pameladantws" target="_blank"><img loading="lazy" src="https://img.icons8.com/?size=512&id=108646&format=png" width="60" height="60"/>
-<a href="https://www.linkedin.com/in/pameladantasp" target="_blank"><img loading="lazy" src="https://img.icons8.com/?size=512&id=108812&format=png" width="60" height="60"/>
-<a href = "mailto:pameladantasp@gmail.com"><img loading="lazy" src="https://img.icons8.com/?size=512&id=110231&format=png" width="60" height="60"/>
-</div> 
 
 
 <p align="right"> :octocat: always in progress. </p>
