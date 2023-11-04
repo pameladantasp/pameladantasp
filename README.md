@@ -17,7 +17,7 @@
 
 ## :computer: **Learning:**
 > 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs)](https://skillicons.dev)
 
 
 ## :mortar_board: University
