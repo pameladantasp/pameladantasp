@@ -2,9 +2,8 @@
 ![Badge 2002](http://img.shields.io/static/v1?label=2002&message=%20SHE/HER&color=red&style=for-the-badge)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,py)](https://skillicons.dev)
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"  width="50" height="50" />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/> 
-            <img loading="lazy" src="https://onion.io/wp-content/uploads/2017/11/Moba-Logo.jpg" width="50" height="50"/>
-            <img loading="lazy" src="https://alternativesp-cdn.b-cdn.net/wp-content/uploads/2021/07/1594530912_Windows-Command-Prompt-600x600.png" width="50" height="50"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50"/>
 
 ## Working at [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/)
@@ -17,7 +16,7 @@
 
 ## :computer: **Learning:**
 > 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
 
 
 ## :mortar_board: University
