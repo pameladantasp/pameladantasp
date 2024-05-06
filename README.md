@@ -6,13 +6,22 @@
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/> 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50"/>
 
-## Working at [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/)
-> **Integração de Software Android** para smartphones Motorola em desenvolvimento. Atuo em validações e testes de estabilidade de releases de SW e requisitos específicos de operadoras da América Latina, América do Norte e Europa, fazendo a investigação, análise, resolução e implementação de configurações no código Android.
+## Summary
+> Undergraduate student at the Instituto Federal de São Paulo - Campinas.
+
+> I worked on Android Software Integration for Motorola smartphones at the Instituto de Pesquisa Eldorado.
+
+>Proficiency in:
+> Databases (DDL, DML, DQL and DTL); data analysis; requirements analysis; android software validations and XML code resolutions; automations built in python; git.
+
+> I'm dedicated to personal and professional growth through continuous learning, improving skills and teamwork.
+
 
 ## How I found myself in tech
-> Iniciei na área tecnológica recentemente, em 2020, tendo contato com banco de dados relacionais e desenvolvimento de querys, o que me fez aprofundar cada vez mais no mundo do **SQL Developer** com **SGBDs relacionais**.
-> Por isso, hoje consigo ir desde modelar o banco de dados na sua criação,  até o uso de triggers e stored procedures para agilizar as rotinas necessárias!
-> Aplico meus conhecimentos de BD e SQL em projetos da faculdade usando o **MySQL Workbench**, buscando sempre aprimorar e implementar melhorias na base de dados do projeto.
+> I started in the technology area recently, in 2020, having contact with relational databases and querys development, which made me delve deeper and deeper into the world of **SQL Developer** with **relational SGBDs**.
+> That's why today I'm able to go from modeling the database when it's created, to using triggers and stored procedures to speed up the necessary routines!
+> I apply my knowledge of DB and SQL to college projects using **MySQL Workbench**, always seeking to improve and implement improvements to the project's database.
+
 
 ## :computer: **Learning:**
 > 
