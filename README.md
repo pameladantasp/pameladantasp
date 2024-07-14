@@ -9,7 +9,8 @@
 ## Summary
 > Undergraduate student at the Instituto Federal de São Paulo - Campinas.
 
-> I worked on Android Software Integration for Motorola smartphones at the Instituto de Pesquisa Eldorado.
+> I currently work in the Quality Assurance area for Samsung applications at SiDi, focusing on my interest and knowledge of user experience.
+I've also worked on Android software integration and testing for Motorola smartphones at  Instituto de Pesquisa Eldorado.
 
 >Proficiency in:
 > Databases (DDL, DML, DQL and DTL); data analysis; requirements analysis; android software validations and XML code resolutions; automations built in python; git.
