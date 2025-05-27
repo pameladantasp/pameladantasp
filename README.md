@@ -23,7 +23,7 @@ I've also worked on Android software integration and testing for Motorola smartp
 
 > I have a good knack for understanding programming logic and code validation. I end up having more contact with: **Python, C#, JavaScript, HTML and CSS**. I also have a lot of knowledge of software quality and user experience, knowing the **test cycles** and processes, studying HCI concepts and software engineering.
 
-## :computer: **Learning:**
+## :computer: **Practicing:**
 > 
 [![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
 
