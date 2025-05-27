@@ -9,10 +9,10 @@
 > Undergraduate student at the Instituto Federal de São Paulo - Campinas.
 
 > I currently work in the Quality Assurance area for Samsung applications at SiDi, focusing on my interest and knowledge of user experience.
-I've also worked on Android software integration and testing for Motorola smartphones at  Instituto de Pesquisa Eldorado.
+I've also worked on Android software integration for Motorola smartphones at Instituto de Pesquisa Eldorado.
 
 >**Proficiency in**:
-> SQL developer; requirements analysis; automations built in python and test automation in c#; git commands; android software validations and XML code resolutions; test development and BDD writing as QA, etc.
+> SQL developer; requirements analysis; coding in Python; test automation in C#; Git commands; android software validations and XML code resolutions; test development and BDD writing as QA, etc.
 
 > I'm dedicated to personal and professional growth through continuous learning, improving skills and teamwork.
 
