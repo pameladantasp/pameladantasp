@@ -5,23 +5,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"  width="50" height="50" />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50"/>
 
-## About
-> Undergraduate student at the Instituto Federal de São Paulo - Campinas.
-
-> I currently work in the Quality Assurance area for Samsung applications at SiDi, focusing on my interest and knowledge of user experience.
-I've also worked on Android software integration for Motorola smartphones at Instituto de Pesquisa Eldorado.
-
 >**Proficiency in**:
 > SQL developer; requirements analysis; coding in Python; test automation in C#; Git commands; android software validations and XML code resolutions; test development and BDD writing as QA, etc.
 
 > I'm dedicated to personal and professional growth through continuous learning, improving skills and teamwork.
-
-
-## How I found myself in tech
-> I started in the technology area in 2020, having contact with relational databases and querys development, which made me delve deeper and deeper into the world of **SQL Developer** with **relational SGBDs**.
-> That's why today I'm able to go from modeling the database when it's created, to using triggers and stored procedures to speed up the necessary routines!
-
-> I have a good knack for understanding programming logic and code validation. I end up having more contact with: **Python, C#, JavaScript, HTML and CSS**. I also have a lot of knowledge of software quality and user experience, knowing the **test cycles** and processes, studying HCI concepts and software engineering.
 
 ## :computer: **Practicing:**
 > 
